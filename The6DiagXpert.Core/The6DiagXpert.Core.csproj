@@ -1,0 +1,37 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net10.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="bin\**" />
+    <Compile Remove="Common\**" />
+    <Compile Remove="obj\**" />
+    <EmbeddedResource Remove="bin\**" />
+    <EmbeddedResource Remove="Common\**" />
+    <EmbeddedResource Remove="obj\**" />
+    <None Remove="bin\**" />
+    <None Remove="Common\**" />
+    <None Remove="obj\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Constants\" />
+    <Folder Include="Exceptions\" />
+    <Folder Include="Models\Diagnostics\Asbestos\" />
+    <Folder Include="Models\Diagnostics\Carrez\" />
+    <Folder Include="Models\Diagnostics\Common\" />
+    <Folder Include="Models\Diagnostics\CREP\" />
+    <Folder Include="Models\Diagnostics\DPE\" />
+    <Folder Include="Models\Diagnostics\Electricity\" />
+    <Folder Include="Models\Diagnostics\ERP\" />
+    <Folder Include="Models\Diagnostics\Gas\" />
+    <Folder Include="Models\Diagnostics\Sanitation\" />
+    <Folder Include="Models\Diagnostics\Termites\" />
+    <Folder Include="Models\Reports\" />
+  </ItemGroup>
+
+</Project>

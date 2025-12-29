@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "The6DiagXpert.Core/1.0.0": {
+        "runtime": {
+          "The6DiagXpert.Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "The6DiagXpert.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

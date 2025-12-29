@@ -1,0 +1,11 @@
+C:\Users\oooar\dev\T6DXpert\The6DiagXpert.Core\bin\Debug\net10.0\The6DiagXpert.Core.deps.json
+C:\Users\oooar\dev\T6DXpert\The6DiagXpert.Core\bin\Debug\net10.0\The6DiagXpert.Core.dll
+C:\Users\oooar\dev\T6DXpert\The6DiagXpert.Core\bin\Debug\net10.0\The6DiagXpert.Core.pdb
+C:\Users\oooar\dev\T6DXpert\The6DiagXpert.Core\obj\Debug\net10.0\The6DiagXpert.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oooar\dev\T6DXpert\The6DiagXpert.Core\obj\Debug\net10.0\The6DiagXpert.Core.AssemblyInfoInputs.cache
+C:\Users\oooar\dev\T6DXpert\The6DiagXpert.Core\obj\Debug\net10.0\The6DiagXpert.Core.AssemblyInfo.cs
+C:\Users\oooar\dev\T6DXpert\The6DiagXpert.Core\obj\Debug\net10.0\The6DiagXpert.Core.csproj.CoreCompileInputs.cache
+C:\Users\oooar\dev\T6DXpert\The6DiagXpert.Core\obj\Debug\net10.0\The6DiagXpert.Core.dll
+C:\Users\oooar\dev\T6DXpert\The6DiagXpert.Core\obj\Debug\net10.0\refint\The6DiagXpert.Core.dll
+C:\Users\oooar\dev\T6DXpert\The6DiagXpert.Core\obj\Debug\net10.0\The6DiagXpert.Core.pdb
+C:\Users\oooar\dev\T6DXpert\The6DiagXpert.Core\obj\Debug\net10.0\ref\The6DiagXpert.Core.dll
