@@ -1,0 +1,38 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net10.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="FirebaseAdmin" Version="3.4.0" />
+    <PackageReference Include="FirebaseAuthentication.net" Version="4.1.0" />
+    <PackageReference Include="FirebaseDatabase.net" Version="5.0.0" />
+    <PackageReference Include="FirebaseStorage.net" Version="1.0.3" />
+    <PackageReference Include="Google.Cloud.Firestore" Version="4.1.0" />
+    <PackageReference Include="Google.Cloud.Storage.V1" Version="4.13.0" />
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.4" />
+    <PackageReference Include="QuestPDF" Version="2025.7.4" />
+    <PackageReference Include="Serilog" Version="4.3.0" />
+    <PackageReference Include="Serilog.Sinks.File" Version="7.0.0" />
+  </ItemGroup>
+
+	<ItemGroup>
+		<ProjectReference Include="..\The6DiagXpert.Core\The6DiagXpert.Core.csproj" />
+		<ProjectReference Include="..\The6DiagXpert.Data\The6DiagXpert.Data.csproj" />
+		<ProjectReference Include="..\The6DiagXpert.Shared\The6DiagXpert.Shared.csproj" />
+	</ItemGroup>
+
+	<ItemGroup>
+    <Folder Include="Calculations\DPE\Constants\" />
+    <Folder Include="Calculations\Surfaces\" />
+    <Folder Include="Email\" />
+    <Folder Include="Services\" />
+    <Folder Include="PDF\Templates\" />
+    <Folder Include="Storage\" />
+    <Folder Include="Sync\" />
+  </ItemGroup>
+
+</Project>
